@@ -1,6 +1,6 @@
 {
-  "name": "xmrig",
-  "version": "3.0.0",
+  "name": "atlanexis-miner",
+  "version": "1.0.0",
   "description": "RandomX, CryptoNight and Argon2 miner",
   "main": "index.js",
   "directories": {
@@ -17,7 +17,7 @@
   "author": "",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/xmrig/xmrig/issues"
+    "url": "https://github.com/hirechbaghdad/atlanexis-miner/issues"
   },
-  "homepage": "https://github.com/xmrig/xmrig#readme"
+  "homepage": "https://miner.atlanexis.com"
 }
